@@ -92,10 +92,12 @@ python scanner.py
 
 Edit the lists at the top of `filters.py`:
 
-- `ROLE_LEVEL_KEYWORDS` — entry level, intern, junior, …
+- `ROLE_LEVEL_KEYWORDS` — entry level, intern, junior, assistant, …
 - `FIELD_KEYWORDS` — finance, actuarial, CPA, …
+- `EXCLUDE_TITLE_KEYWORDS` — senior, manager, director, … (dropped even if other keywords match)
+- `EXCLUDE_ALLOW_PHRASES` — exceptions like “management trainee”
 
-A listing must hit **at least one from each list** (title + snippet, case-insensitive).
+A listing must hit **at least one role keyword in the title** and **at least one field keyword** in title/snippet (whole-word, case-insensitive), and must not be excluded.
 
 Also adjustable there:
 

@@ -16,30 +16,65 @@ ROLE_LEVEL_KEYWORDS = [
     "entry level",
     "entry-level",
     "graduate trainee",
+    "graduate",
     "internship",
     "intern",
     "trainee",
     "junior",
     "associate",
+    "assistant",  # Accounts Assistant, Audit Assistant, etc.
+    "attachment",  # Kenyan industrial attachment / student placement
 ]
 
 FIELD_KEYWORDS = [
     "finance",
+    "financial",
     "accounting",
     "accountant",
     "accounts",  # common KE title form: "Accounts Intern / Assistant"
     "audit",
     "auditor",
     "tax",
+    "taxation",
     "actuarial",
     "actuary",
     "risk",
     "compliance",
     "credit control",
+    "credit",
     "treasury",
+    "bookkeeping",
     "cpa",
     "acca",
     "actuarial science",
+]
+
+# Drop if any of these appear in the TITLE (whole-word), even when role+field match.
+# Keeps senior / leadership noise out of an entry-level digest.
+EXCLUDE_TITLE_KEYWORDS = [
+    "senior",
+    "sr",
+    "manager",
+    "head of",
+    "director",
+    "chief",
+    "principal",
+    "lead",
+    "supervisor",
+    "vice president",
+    "vp",
+    "general manager",
+    "country head",
+    "executive",  # C-suite / "Finance Executive"; tweak if you want exec-assistant roles
+]
+
+# If the title contains one of these, do NOT apply EXCLUDE_TITLE_KEYWORDS.
+# Needed so "Graduate Management Trainee" / "Management Trainee" stay in.
+EXCLUDE_ALLOW_PHRASES = [
+    "management trainee",
+    "graduate management",
+    "trainee programme",
+    "trainee program",
 ]
 
 # How long a listing stays in digests when no explicit deadline is found
@@ -99,20 +134,30 @@ def find_keyword_hits(text: str, keywords: list[str]) -> list[str]:
     return hits
 
 
+def is_excluded_title(title: str) -> bool:
+    """True if the title looks senior/leadership rather than entry-level."""
+    low = _normalize(title)
+    if any(phrase in low for phrase in EXCLUDE_ALLOW_PHRASES):
+        return False
+    return bool(find_keyword_hits(title, EXCLUDE_TITLE_KEYWORDS))
+
+
 def is_match(
     title: str,
     snippet: str = "",
     company: Optional[str] = None,
 ) -> tuple[bool, list[str], list[str]]:
     """A match needs ≥1 role-level keyword in the TITLE and ≥1 field keyword
-    in title or snippet.
+    in title or snippet, and must not hit EXCLUDE_TITLE_KEYWORDS.
 
     Role keywords are title-only so page chrome / other listings can't invent
     seniority. Company names are stripped from the snippet before field
     matching so 'Frankfurt School of Finance' doesn't qualify a graphic-design role.
     """
+    if is_excluded_title(title):
+        return False, [], []
+
     role_hits = find_keyword_hits(title, ROLE_LEVEL_KEYWORDS)
-    field_blob = title
     snip = snippet or ""
     if company:
         snip = re.sub(re.escape(company), " ", snip, flags=re.I)
