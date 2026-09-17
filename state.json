@@ -105,11 +105,11 @@
     "title": "Junior Loan Officer Interns \u2013 Agrifinance at Platinum Credit"
   },
   "https://campusbiz.co.ke/careers/vacancy/960445-aku-finance-management-trainee-program-nairobi/": {
-    "deadline": null,
+    "deadline": "2026-09-18",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-17",
     "source": "CampusBiz",
-    "title": "Trainee Program Finance Management Trainee Program at The Aga Khan University The Aga Khan University, Nairobi is seeking a Management Trainee \u2013 General Finance for their Aspire Future Leaders Programme, a fast-track twelve-month job rotation placement,\u2026 Nairobi Bachelor's Degree Closes on Friday, September 18, 2026 NEW"
+    "title": "Finance Management Trainee Program at The Aga Khan University"
   },
   "https://campusbiz.co.ke/careers/vacancy/961184-ndi-finance-assistant-nairobi/": {
     "deadline": null,
@@ -183,7 +183,7 @@
   "https://www.brightermonday.co.ke/listings/accounts-assistant-6q67md/": {
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "source": "BrighterMonday",
     "title": "Accounts Assistant"
   },
@@ -340,7 +340,7 @@
   "https://www.corporatestaffing.co.ke/job/customer-success-credit-associate-eldoret-job-fresh-life/": {
     "deadline": null,
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "source": "Corporate Staffing",
     "title": "Customer Success & Credit Associate \u2013 Eldoret Job Fresh Life"
   },
@@ -351,10 +351,17 @@
     "source": "Corporate Staffing",
     "title": "Attachment -Finance & Accounts Job CA"
   },
+  "https://www.corporatestaffing.co.ke/job/finance-assistant-job-harleys/": {
+    "deadline": null,
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "source": "Corporate Staffing",
+    "title": "Finance Assistant Job Harleys"
+  },
   "https://www.corporatestaffing.co.ke/job/finance-assistant-ngo-job-eaff/": {
     "deadline": null,
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "source": "Corporate Staffing",
     "title": "Finance Assistant NGO Job EAFF"
   },
@@ -555,7 +562,7 @@
   "https://www.myjobmag.co.ke/job/assistant-accountant-kimisitu-investment-company-limited-kicl-2/": {
     "deadline": null,
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "source": "MyJobMag",
     "title": "Assistant Accountant at Kimisitu Investment Company Limited - KICL"
   },
@@ -611,7 +618,7 @@
   "https://www.myjobmag.co.ke/job/audit-intern-reeds-africa-consult/": {
     "deadline": null,
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "source": "MyJobMag",
     "title": "Audit Intern at Reeds Africa Consult"
   },
@@ -651,7 +658,7 @@
   "https://www.myjobmag.co.ke/job/internal-audit-assistant-cosmos-limited/": {
     "deadline": null,
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "source": "MyJobMag",
     "title": "Internal Audit Assistant at Cosmos Limited"
   },
@@ -660,6 +667,13 @@
     "first_seen": "2026-09-01",
     "source": "MyJobMag",
     "title": "Internal Audit Intern at Kenya Deposit Insurance Corporation"
+  },
+  "https://www.myjobmag.co.ke/job/internal-audit-intern-lattice/": {
+    "deadline": null,
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "source": "MyJobMag",
+    "title": "Internal Audit Intern at Lattice"
   },
   "https://www.myjobmag.co.ke/job/inventory-accountant-assistant-nexus-staffing-solutions/": {
     "deadline": null,
@@ -692,7 +706,7 @@
   "https://www.myjobmag.co.ke/job/junior-accountant-xolo-investment-ltd/": {
     "deadline": null,
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "source": "MyJobMag",
     "title": "Junior Accountant at Xolo Investment Ltd"
   },
@@ -712,14 +726,14 @@
   "https://www.myjobmag.co.ke/job/management-trainee-general-finance-aga-khan-university-hospital/": {
     "deadline": null,
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "source": "MyJobMag",
     "title": "Management Trainee - General Finance at Aga Khan University Hospital"
   },
   "https://www.myjobmag.co.ke/job/management-trainee-internal-audit-aga-khan-university-hospital/": {
     "deadline": null,
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "source": "MyJobMag",
     "title": "Management Trainee - Internal Audit at Aga Khan University Hospital"
   },
@@ -754,7 +768,7 @@
   "https://www.myjobmag.co.ke/job/sustainability-compliance-intern-african-coffee-roasters-epz-limited/": {
     "deadline": null,
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "source": "MyJobMag",
     "title": "Sustainability & Compliance Intern at African Coffee Roasters EPZ Limited"
   },
