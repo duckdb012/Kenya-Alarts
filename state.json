@@ -20,13 +20,6 @@
     "source": "CampusBiz",
     "title": "Sales and Content Associate at FuKazee"
   },
-  "https://campusbiz.co.ke/careers/vacancy/976098-brooke-east-africa-finance-and-administration-intern-nairobi/": {
-    "deadline": "2026-10-26",
-    "first_seen": "2026-10-18",
-    "last_seen": "2026-10-25",
-    "source": "CampusBiz",
-    "title": "Finance and Administration Intern at Brooke East Africa"
-  },
   "https://campusbiz.co.ke/careers/vacancy/976186-the-design-gallery-accounts-internship-nairobi/": {
     "deadline": null,
     "first_seen": "2026-10-19",
@@ -328,7 +321,7 @@
   "https://www.brightermonday.co.ke/listings/accounts-assistant-pgdxvq/": {
     "deadline": null,
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "BrighterMonday",
     "title": "ACCOUNTS ASSISTANT"
   },
@@ -366,7 +359,6 @@
   "https://www.brightermonday.co.ke/listings/finance-administration-assistant-wrzwq5/": {
     "deadline": null,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-17",
     "source": "BrighterMonday",
     "title": "Finance & Administration Assistant"
   },
@@ -379,7 +371,7 @@
   "https://www.brightermonday.co.ke/listings/finance-assistant-z846vg/": {
     "deadline": null,
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "BrighterMonday",
     "title": "FINANCE ASSISTANT"
   },
@@ -392,7 +384,7 @@
   "https://www.brightermonday.co.ke/listings/financeaccounts-trainee-9k90wj/": {
     "deadline": null,
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "BrighterMonday",
     "title": "FINANCE/ACCOUNTS TRAINEE"
   },
@@ -449,7 +441,7 @@
   "https://www.brightermonday.co.ke/listings/recovery-officer-intern-western-kenya-m05xkr/": {
     "deadline": null,
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "BrighterMonday",
     "title": "RECOVERY OFFICER INTERN - WESTERN KENYA"
   },
@@ -463,7 +455,7 @@
   "https://www.brightermonday.co.ke/listings/verification-officer-intern-western-kenya-rrzpk2/": {
     "deadline": null,
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "BrighterMonday",
     "title": "VERIFICATION OFFICER INTERN-WESTERN KENYA"
   },
@@ -477,14 +469,14 @@
   "https://www.corporatestaffing.co.ke/job/assistant-credit-officer-ii-co-operative-revolving-fund-job-laikipia-county-government/": {
     "deadline": null,
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "Corporate Staffing",
     "title": "Assistant Credit Officer II Job Laikipia County Government"
   },
   "https://www.corporatestaffing.co.ke/job/assistant-finance-administrator-job-catholic-diocese-of-kitale/": {
     "deadline": null,
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "Corporate Staffing",
     "title": "Assistant Finance Administrator Job Catholic Diocese of Kitale"
   },
@@ -593,12 +585,26 @@
     "source": "MyJobMag",
     "title": "Accounts Assistant at CBRE Excellerate"
   },
+  "https://www.myjobmag.co.ke/job/accounts-assistant-iii-the-public-procurement-regulatory-authority-ppra/": {
+    "deadline": null,
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "source": "MyJobMag",
+    "title": "Accounts Assistant III"
+  },
   "https://www.myjobmag.co.ke/job/accounts-assistant-south-b-hospital/": {
     "deadline": null,
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-02",
     "source": "MyJobMag",
     "title": "Accounts Assistant at South B Hospital"
+  },
+  "https://www.myjobmag.co.ke/job/accounts-intern-brisk-credit-ltd/": {
+    "deadline": null,
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "source": "MyJobMag",
+    "title": "Accounts Intern"
   },
   "https://www.myjobmag.co.ke/job/actuarial-assistant-cic-insurance-2/": {
     "deadline": null,
@@ -609,7 +615,7 @@
   "https://www.myjobmag.co.ke/job/actuarial-associate-turaco-1/": {
     "deadline": null,
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "MyJobMag",
     "title": "Actuarial Associate at Turaco"
   },
@@ -655,7 +661,7 @@
   "https://www.myjobmag.co.ke/job/bar-restaurant-junior-accountant-bollard-consulting-limited/": {
     "deadline": null,
     "first_seen": "2026-11-13",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "MyJobMag",
     "title": "Bar & Restaurant Junior Accountant at Bollard Consulting Limited"
   },
@@ -665,6 +671,34 @@
     "last_seen": "2026-11-12",
     "source": "MyJobMag",
     "title": "Business Development Internship at KKCO East Africa"
+  },
+  "https://www.myjobmag.co.ke/job/compliance-assistant-iii-the-public-procurement-regulatory-authority-ppra/": {
+    "deadline": null,
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "source": "MyJobMag",
+    "title": "Compliance Assistant III"
+  },
+  "https://www.myjobmag.co.ke/job/finance-accounting-internship-mombasa-fracht-group/": {
+    "deadline": null,
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "source": "MyJobMag",
+    "title": "Finance & Accounting Internship-Mombasa"
+  },
+  "https://www.myjobmag.co.ke/job/finance-accounting-internship-nairobi-fracht-group/": {
+    "deadline": null,
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "source": "MyJobMag",
+    "title": "Finance & Accounting Internship-Nairobi"
+  },
+  "https://www.myjobmag.co.ke/job/finance-and-awards-associate-ai-data-and-digital-aidd-path/": {
+    "deadline": null,
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "source": "MyJobMag",
+    "title": "Finance and Awards Associate- AI, Data, and Digital (AIDD) at PATH"
   },
   "https://www.myjobmag.co.ke/job/finance-assistant-local-nationals-secours-islamique-france-sif/": {
     "deadline": null,
@@ -697,7 +731,7 @@
   "https://www.myjobmag.co.ke/job/finance-trainee-dhl-1/": {
     "deadline": null,
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "MyJobMag",
     "title": "Finance Trainee at DHL"
   },
@@ -711,7 +745,7 @@
   "https://www.myjobmag.co.ke/job/graduate-trainee-accounting-finance-stan-consulting-group-limited/": {
     "deadline": null,
     "first_seen": "2026-11-13",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "MyJobMag",
     "title": "Graduate Trainee \u2013Accounting & Finance at Stan Consulting Group Limited"
   },
@@ -721,12 +755,25 @@
     "source": "MyJobMag",
     "title": "Graduate Trainee & Internship Programme \u2013 Finance & Accounts at Techminds Technologies Ltd"
   },
+  "https://www.myjobmag.co.ke/job/hr-intern-brisk-credit-ltd/": {
+    "deadline": null,
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "source": "MyJobMag",
+    "title": "HR Intern"
+  },
   "https://www.myjobmag.co.ke/job/internal-audit-assistant-entry-level-bimas-kenya-limited/": {
     "deadline": null,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-17",
     "source": "MyJobMag",
     "title": "Internal Audit Assistant - Entry Level at BIMAS Kenya Limited"
+  },
+  "https://www.myjobmag.co.ke/job/internal-audit-assistant-iii-the-public-procurement-regulatory-authority-ppra/": {
+    "deadline": null,
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "source": "MyJobMag",
+    "title": "Internal Audit Assistant III"
   },
   "https://www.myjobmag.co.ke/job/internal-audit-assistant-muthokinju-paint-and-cement/": {
     "deadline": null,
@@ -765,7 +812,7 @@
   "https://www.myjobmag.co.ke/job/junior-actuarial-analyst-life-business-old-mutual-kenya/": {
     "deadline": null,
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "MyJobMag",
     "title": "Junior Actuarial Analyst - Life Business at Old Mutual Kenya"
   },
@@ -779,14 +826,13 @@
   "https://www.myjobmag.co.ke/job/management-trainee-accounts-finance-oasis-healthcare/": {
     "deadline": null,
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-17",
     "source": "MyJobMag",
     "title": "Management Trainee-Accounts / Finance at Oasis Healthcare"
   },
   "https://www.myjobmag.co.ke/job/management-trainee-general-finance-aga-khan-university-hospital/": {
     "deadline": null,
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "MyJobMag",
     "title": "Management Trainee - General Finance at Aga Khan University Hospital"
   },
@@ -807,7 +853,7 @@
   "https://www.myjobmag.co.ke/job/risk-and-compliance-associate-strathmore-university-1/": {
     "deadline": null,
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "source": "MyJobMag",
     "title": "Risk and Compliance Associate at Strathmore University"
   },
